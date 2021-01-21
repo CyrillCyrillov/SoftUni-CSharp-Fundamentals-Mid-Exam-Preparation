@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task01_Counter_Strike/1.0.0": {
+        "runtime": {
+          "Task01_Counter_Strike.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task01_Counter_Strike/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
