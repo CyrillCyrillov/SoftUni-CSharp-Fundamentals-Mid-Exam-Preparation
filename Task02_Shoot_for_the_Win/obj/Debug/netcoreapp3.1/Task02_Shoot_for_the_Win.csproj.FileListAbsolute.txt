@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation\Task02_Shoot_for_the_Win\bin\Debug\netcoreapp3.1\Task02_Shoot_for_the_Win.exe
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation\Task02_Shoot_for_the_Win\bin\Debug\netcoreapp3.1\Task02_Shoot_for_the_Win.deps.json
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation\Task02_Shoot_for_the_Win\bin\Debug\netcoreapp3.1\Task02_Shoot_for_the_Win.runtimeconfig.json
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation\Task02_Shoot_for_the_Win\bin\Debug\netcoreapp3.1\Task02_Shoot_for_the_Win.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation\Task02_Shoot_for_the_Win\bin\Debug\netcoreapp3.1\Task02_Shoot_for_the_Win.dll
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation\Task02_Shoot_for_the_Win\bin\Debug\netcoreapp3.1\Task02_Shoot_for_the_Win.pdb
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation\Task02_Shoot_for_the_Win\obj\Debug\netcoreapp3.1\Task02_Shoot_for_the_Win.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation\Task02_Shoot_for_the_Win\obj\Debug\netcoreapp3.1\Task02_Shoot_for_the_Win.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation\Task02_Shoot_for_the_Win\obj\Debug\netcoreapp3.1\Task02_Shoot_for_the_Win.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation\Task02_Shoot_for_the_Win\obj\Debug\netcoreapp3.1\Task02_Shoot_for_the_Win.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation\Task02_Shoot_for_the_Win\obj\Debug\netcoreapp3.1\Task02_Shoot_for_the_Win.dll
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation\Task02_Shoot_for_the_Win\obj\Debug\netcoreapp3.1\Task02_Shoot_for_the_Win.pdb
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation\Task02_Shoot_for_the_Win\obj\Debug\netcoreapp3.1\Task02_Shoot_for_the_Win.genruntimeconfig.cache
